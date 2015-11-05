@@ -1,0 +1,11 @@
+{
+    "name": "laravel/homestead",
+    "description": "A virtual machine for web artisans.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Taylor Otwell",
+            "email": "taylorotwell@gmail.com"
+        }
+    ]
+}
