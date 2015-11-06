@@ -11,12 +11,12 @@ keys:
     - ~/.ssh/id_rsa
 
 folders:
-    - map: ~/Code
-      to: /home/vagrant/Code
+    - map: ~/tutorial-projects/designpatterns
+      to: /home/vagrant/designpatterns
 
 sites:
     - map: homestead.app
-      to: /home/vagrant/Code/Laravel/public
+      to: /home/vagrant/designpatterns/Laravel/public
       hhvm: true
 
 databases:
